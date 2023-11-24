@@ -1,2 +1,3 @@
 # olga_test
- ett test repo
+
+ett fint test repo för att börja lära sig git.
